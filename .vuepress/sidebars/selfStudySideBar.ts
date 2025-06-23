@@ -37,6 +37,9 @@ export default [
     collapsable: true,
     children: [
       "面经分享/杭州恒生电子Java实习面经.md",
+      "面经分享/杭州天健咨询Java实习面经.md",
+      "面经分享/深圳江牛科技有限公司Java远程实习面经.md",
+      "面经分享/苏州盈虚有数Java实习面经.md",
     ],
   },
   {
@@ -44,6 +47,7 @@ export default [
     collapsable: true,
     children: [
       "技术分享/双非计算机大学生如何提高核心竞争力？.md",
+      "技术分享/二本学院计算机大学生如何规划大学四年的学习？.md",
     ],
   },
 ];
