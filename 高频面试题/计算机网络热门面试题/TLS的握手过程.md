@@ -1,5 +1,9 @@
 # TLS的握手过程
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 ![](https://pic.yupi.icu/5563/202506241921993.png)
 
 https的信息加密是混合加密，也就是**对称加密**与**非对称加密**。双方通通信开始前要协商密钥，密钥协商时采用的是[非对称加密](https://so.csdn.net/so/search?q=非对称加密&spm=1001.2101.3001.7020)，进行通信时使用的对称加密。

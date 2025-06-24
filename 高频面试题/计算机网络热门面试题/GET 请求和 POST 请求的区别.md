@@ -1,5 +1,9 @@
 # GET 请求和 POST 请求的区别
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 - POST请求相对安全，GET请求相对不安全
 - GET请求可以缓存，POST请求不能缓存
 - GET请求有长度限制，POST请求没有长度限制

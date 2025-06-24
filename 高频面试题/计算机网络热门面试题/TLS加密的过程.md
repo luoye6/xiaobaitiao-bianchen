@@ -1,5 +1,9 @@
 # TLS加密的过程
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 TLS（Transport Layer Security）是一种网络通信协议，用于在客户端和服务器之间实现加密和认证的安全传输。TLS加密的过程可以分为以下几个步骤：
 
 1. 协商加密算法：客户端向服务器发送协议版本和支持的加密算法列表等信息。服务器选取一种加密算法，并将其发送给客户端。

@@ -1,5 +1,9 @@
 # TCP和UDP的区别
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 TCP和UDP是两种网络传输协议，它们的主要区别在于它们的工作方式、性能和适用场景。
 
 1. 工作方式：

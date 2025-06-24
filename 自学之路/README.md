@@ -1,5 +1,9 @@
 # 小白条的编程学习之路
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 ## 大学经历
 待更新
 

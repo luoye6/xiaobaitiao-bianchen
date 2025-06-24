@@ -1,5 +1,9 @@
 # BIO、NIO、AIO有什么区别?
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 **答：**
 
 - BIO是同步阻塞的 (JDK1.4之前)

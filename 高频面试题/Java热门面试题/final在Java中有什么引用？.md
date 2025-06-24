@@ -1,5 +1,9 @@
 # final在Java中有什么引用?
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 **答：**
 
 - 修饰基本数据类型，表示常量，比如CACHE_SIZE = 10
