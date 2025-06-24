@@ -9,7 +9,7 @@ const domain = "https://xbt.xiaobaitiao.top";
 const tags = ["程序员", "编程", "计算机"];
 
 export default defineConfig({
-  title: "小白条的编程日记",
+  title: "程序员小白条的编程日记",
   description: "贴心的编程学习路线，全面的编程知识百科",
   head: [
     // 站点图标
@@ -31,7 +31,7 @@ export default defineConfig({
         var _hmt = _hmt || [];
         (function() {
           var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?2675818a983a3131404cee835018f016";
+          hm.src = "https://hm.baidu.com/hm.js?6382abdbcaae0b9b728ae2e136e70b19";
           var s = document.getElementsByTagName("script")[0]; 
           s.parentNode.insertBefore(hm, s);
         })();
