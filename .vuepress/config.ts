@@ -136,7 +136,7 @@ export default defineConfig({
       // 是否添加微信公众号引流工具到移动端页面
       allowMobile: false,
       // 文章解锁后凭证的有效天数
-      expires: 1,
+      expires: 30,
       // 定时校验凭证有效性的时间间隔（秒）
       interval: 60,
       // 等待 DOM 节点加载完成的时间（毫秒），如果部分页面的引流功能无法生效，可适当增大此参数的值
