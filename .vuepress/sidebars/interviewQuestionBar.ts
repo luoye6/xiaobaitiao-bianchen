@@ -19,6 +19,11 @@ export default [
       "Java热门面试题/抽象类和普通类的区别在哪里？.md",
       "Java热门面试题/接口和抽象类有什么区别和联系？.md",
       "Java热门面试题/重写和重载的区别和使用场景.md",
+      "Java热门面试题/HashMap和HashTable有什么区别？.md",
+      "Java热门面试题/HashMap的实现原理.md",
+      "Java热门面试题/什么是双亲委派模型？.md",
+      "Java热门面试题/实例化对象有哪几种方式？.md",
+      "Java热门面试题/类什么时候会被加载？.md",
     ],
   },
   {
