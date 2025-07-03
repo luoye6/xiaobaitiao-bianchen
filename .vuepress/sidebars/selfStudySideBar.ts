@@ -6,19 +6,21 @@ export default [
     children: [
       "大学经历/程序员小白条的四六级是怎么考过的？.md",
       "大学经历/软件设计师，我通过了！.md",
+      "大学经历/大一，社团还要面试？我直接面！.md",
     ],
   },
   {
     title: "求职经历",
     collapsable: true,
     children: [
-        "我的第一份远程实习，技术运营！.md"
+        "求职经历/我的第一份远程实习，技术运营！.md"
     ],
   },
   {
     title: "职场工作",
     collapsable: true,
     children: [
+      "职场工作/入职第一天,我成为了社畜！.md"
     ],
   },
   {
