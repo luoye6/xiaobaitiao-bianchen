@@ -23,6 +23,10 @@ export default {
       label: "牛客",
       href: "https://www.nowcoder.com/users/891199875",
     },
+    {
+      label: "Gitee",
+      href: "https://gitee.com/luoye6/Vue_BookManageSystem",
+    },
   ],
   copyright: {
     href: "https://beian.miit.gov.cn/",
