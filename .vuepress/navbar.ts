@@ -44,6 +44,9 @@ export default [
             {
                 text: "操作系统热门面试题", link: "/高频面试题/#操作系统热门面试题",
             },
+            {
+                text: "Redis热门面试题", link: "/高频面试题/#Redis热门面试题",
+            },
         ]
 
     },

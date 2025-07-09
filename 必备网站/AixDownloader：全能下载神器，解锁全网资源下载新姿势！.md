@@ -1,5 +1,11 @@
 # **AixDownloader：全能下载神器，解锁全网资源下载新姿势！**
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
+
 在数字时代，我们每天都需要从网络获取各种资源——视频、音乐、文档、软件等。但很多平台限制下载，或需要付费会员才能获取资源。**AixDownloader** 作为一款**免费、全能、高速**的下载工具，可以帮助你轻松突破限制，一键下载全网内容！
 
 ------

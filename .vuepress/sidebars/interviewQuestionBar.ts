@@ -82,4 +82,15 @@ export default [
       "操作系统热门面试题/零拷贝技术.md",
     ],
   },
+  {
+    title: "Redis热门面试题",
+    collapsable: true,
+    children: [
+      "Redis热门面试题/Redis数据类型有哪些？.md",
+      "Redis热门面试题/redis的持久化.md",
+      "Redis热门面试题/Redis集群模式.md",
+      "Redis热门面试题/为什么要使用redis,使用redis和传统sql有哪些好处.md",
+      "Redis热门面试题/怎么解决数据库缓存数据一致性问题？.md",
+    ],
+  },
 ];

@@ -5,6 +5,7 @@ export default [
         collapsable: true,
         children: [
             "我制作了一份简历修改指南，它很有用！.md",
+            "我只是美化简历，凭什么算诈骗？——某大厂员工被裁后的自白.md",
             "简历修改指南.md",
             "模拟面试.md",
         ],
