@@ -1,5 +1,9 @@
 # Innodb引擎执行update语句的执行流程?
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 1.查询解析和优化：当你执行UPDATE语句时，MySQL首先会对查询进行解析，以确定要更新的表和相应的行。然后，它会进行优化，以确定如何执行更新操作。
 
 2.事务的启动：如果你的UPDATE语句没有包含在一个显式的事务中，InnoDB会自动启动一个事务。事务是用来维护数据的一致性和隔离性的机制。

@@ -1,5 +1,10 @@
 # InnoDB 引擎和 MyISAM 引擎的区别是什么？
 
+
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+> 
 1）InnoDB 支持事务，而 MyISAM 不支持事务
 
 2）InnoDB 支持行锁，而 MyISAM 仅支持表锁

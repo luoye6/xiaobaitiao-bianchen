@@ -1,5 +1,9 @@
 # MySQL 为什么用 B+ 树 而不用 B 树？
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 B-树在提高了IO性能的同时并没有解决元素遍历的低下的问题，然而B+树只需要去遍历叶子节点就可以实现遍历整棵树。由于数据库中基于范围的查找是非常频繁的，B树的查找效率就很低下。
 
 主要原因：

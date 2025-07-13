@@ -1,5 +1,9 @@
 # MySQL存储引擎，MyISAM和InnoDB的特点和使用场景
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 **MySQL常见存储引擎:**
 
 InnoDB是MySQL的默认存储引擎，支持ACID事务，具有高并发性、可靠性和稳定性。InnoDB采用MVCC（多版本并发控制）来实现高并发的读写操作，支持行级锁定，可以提高并发性能。InnoDB也支持外键、回滚等特性，适合于事务性应用场景，例如电子商务、金融等。

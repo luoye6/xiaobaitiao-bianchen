@@ -1,5 +1,9 @@
 # 为什么现在不怎么使用 Hash索引
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 1）Hash 索引不能进行范围查询 Hash 索引指向的数据无序，而 B+ 树的叶子节点是个有序的链表
 
 2）Hash 索引不支持联合索引的最左侧原则 Hash 索引在计算 Hash 值的时候是将索引键合并后再一起计算，无法对每个索引单独计算 Hash 值

@@ -1,5 +1,9 @@
 # TCP 有哪些字段？
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 传输控制协议(Transmission Control Protocol，TCP)是一种传输层协议。TCP使数据包从源到目的地的传输更加顺畅。它是一种面向连接的端到端协议。每个数据包由TCP包裹在一个报头中，该报头由10个强制字段共20个字节和一个0到40 字节的可选数据字段组成
 
 ![](https://pic.yupi.icu/5563/202507121551465.png)
