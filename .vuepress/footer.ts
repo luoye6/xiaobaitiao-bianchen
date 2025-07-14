@@ -8,6 +8,10 @@ export default {
       href: "https://github.com/luoye6",
     },
     {
+      label: "抖音",
+      href: "https://v.douyin.com/igy7qdyZYs0/",
+    },
+    {
       label: "GPT 智能图书管理系统",
       href: "https://github.com/luoye6/Vue_BookManageSystem",
     },
