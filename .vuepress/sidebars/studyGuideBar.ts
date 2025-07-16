@@ -5,13 +5,14 @@ export default [
         collapsable: true,
         children: [
             "学习建议/如何科学选择编程学习资源？避开这些坑少走弯路！.md",
+            "学习建议/2025计算机专业烂大街项目黑名单：从电商系统到人脸识别.md",
         ],
     },
     {
         title: "学习资源",
         collapsable: true,
         children: [
-            "学习资源/影视资源.md",
+            "学习资源/资源.md",
         ],
     },
 ];
