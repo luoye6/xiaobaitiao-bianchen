@@ -47,6 +47,9 @@ export default [
             {
                 text: "Redis热门面试题", link: "/高频面试题/#Redis热门面试题",
             },
+            {
+                text: "多线程热门面试题", link: "/高频面试题/#多线程热门面试题",
+            },
         ]
 
     },
@@ -72,7 +75,7 @@ export default [
         link: '/简历修改/'
     },
     {
-        text: "项目实战",
+        text: "⭐️项目实战",
         link: '/项目实战/'
     },
     {
