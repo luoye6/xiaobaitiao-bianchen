@@ -1,5 +1,9 @@
 # ThreadLocal如何实现线程安全
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 - Java的ThreadLocal是一个线程本地变量，它提供了一种简单的机制来实现线程封闭（Thread confinement）。ThreadLocal为每个线程提供了一个独立的副本，每个线程都可以访问自己的副本，从而避免了线程安全问题。
 - ThreadLocal实现线程安全的核心是每个线程都有自己的变量副本，每个线程访问的都是自己的变量副本，从而避免了多线程之间的竞争和冲突。当多个线程共享同一个对象时，如果没有采取线程安全的措施，就会出现多个线程同时修改同一个对象的情况，从而导致数据不一致或者出现异常。
 - ThreadLocal的作用：实现线程范围内的局部变量，即ThreadLocal在**一个线程中是共享**的，在**不同线程之间是隔离**的。

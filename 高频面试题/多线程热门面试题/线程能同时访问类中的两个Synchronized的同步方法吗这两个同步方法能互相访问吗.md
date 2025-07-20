@@ -1,6 +1,8 @@
 # 线程能同时访问类中的两个Synchronized的同步方法吗?这两个同步方法能互相访问吗?
 
-
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
 
 - 线程可以同时访问类中的两个Synchronized的同步方法，但是这两个同步方法不能互相访问。
 - Synchronized关键字可以保证同一时间只有一个线程进入同步代码块或同步方法，如果一个线程进入了一个Synchronized方法或代码块，其他线程就必须等待该线程执行完毕才能进入该方法或代码块。

@@ -1,5 +1,9 @@
 # volatile是怎么知道多线程下数据变更的
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 volatile 关键字用于标记一个变量是 volatile 的，这意味着这个变量的值可能会被多个线程同时修改，因此需要及时更新到内存中，以确保其他线程能够及时看到值的变化。
 
 - 当一个线程访问一个 volatile 变量时，Java 虚拟机会自动将该变量的值复制到线程本地内存中，以便其他线程能够访问该变量的值。当一个线程修改了 volatile 变量的值后，Java 虚拟机也会自动将修改后的值复制回线程本地内存中，以便其他线程能够更新他们的本地内存。

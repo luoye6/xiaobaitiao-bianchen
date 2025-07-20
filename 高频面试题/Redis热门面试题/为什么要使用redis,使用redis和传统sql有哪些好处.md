@@ -1,5 +1,9 @@
 # 为什么要使用redis,使用redis和传统sql有哪些好处?
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+> 
 ![](https://pic.yupi.icu/5563/202507081956298.png)
 
 - 存储方式

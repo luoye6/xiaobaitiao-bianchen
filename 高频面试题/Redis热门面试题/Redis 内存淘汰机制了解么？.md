@@ -1,5 +1,9 @@
 # Redis 内存淘汰机制了解么？
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+> 
 相关问题：MySQL 里有 2000w 数据，Redis 中只存 20w 的数据，如何保证 Redis 中的数据都是热点数据?
 
 Redis 提供 6 种数据淘汰策略：

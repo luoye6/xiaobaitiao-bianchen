@@ -1,5 +1,9 @@
 # Redis集群模式
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+> 
 Redis集群的优点主要包括：
 
 1. 可扩展性好：Redis集群支持自动水平扩展，可以随着数据量的增加，自动添加节点来扩展集群规模。

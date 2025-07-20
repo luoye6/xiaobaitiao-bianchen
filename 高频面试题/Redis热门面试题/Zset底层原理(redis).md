@@ -1,5 +1,9 @@
 # Zset底层原理(redis)
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+> 
 在Redis中，Zset（有序集合）是一种特殊的数据结构，它是使用跳跃表（Skip List）和哈希表（Hash Table）结合实现的。Zset的底层基本原理如下：
 
 1. 跳跃表（Skip List）：跳跃表是一种有序链表的数据结构，其中的每个节点都包含一个分值和一个成员。跳跃表通过维护多层索引，可以快速地进行插入、删除和查找操作。在Zset中，每个节点表示一个有序集合的成员。

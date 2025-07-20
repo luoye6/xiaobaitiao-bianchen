@@ -1,5 +1,9 @@
 # Redis为什么这么快?
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+>
 Redis之所以快速，是因为它具有以下几个特点：
 
 1. 内存存储：Redis主要将数据存储在内存中，而不是硬盘上。由于内存的读写速度远超硬盘，因此可以快速读写数据。

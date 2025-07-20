@@ -1,5 +1,9 @@
 # sleep()和wait()方法的作用
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 线程sleep 和wait 的区别：
 
 1、这两个方法来自不同的类分别是Thread和Object

@@ -1,5 +1,9 @@
 # 子线程如何获得父线程的ThreadLocal
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 在Java中，子线程无法直接访问父线程的ThreadLocal变量，因为ThreadLocal是线程封闭的，每个线程都拥有自己独立的变量副本。
 
 但是，如果在创建子线程时将父线程的ThreadLocal变量传递给子线程，子线程就可以访问父线程的ThreadLocal变量了。具体实现方法如下：

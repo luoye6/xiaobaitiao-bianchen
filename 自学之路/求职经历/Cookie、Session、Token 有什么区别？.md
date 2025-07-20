@@ -1,5 +1,9 @@
 # Cookie、Session、Token 有什么区别？
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 大家伙，我是程序员小白条，今天来聊一聊，经典面试问题，一般我开发项目就是 Token，JWT，第三方 Oauth2。
 
 在 Web 开发中，**Cookie、Session 和 Token** 都是用来管理用户状态的机制，但它们的工作原理和应用场景有很大不同。今天我们就来聊聊它们的区别，以及各自适合什么场景。

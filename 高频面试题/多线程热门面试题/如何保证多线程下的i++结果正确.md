@@ -1,5 +1,9 @@
 # 如何保证多线程下的i++结果正确
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 1.使用 synchronized 关键字
 
 ```java
