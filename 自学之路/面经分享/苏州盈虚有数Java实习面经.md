@@ -4,6 +4,9 @@
 >
 > 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
 
+口述详细面经分享请关注dy号，感谢支持！
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
+
 一个老板，一个员工，轮流面....50 分钟拷打，算是没面试上大厂前最长的面试了。
 
 下面的我就统一用面试官称呼，面试的问题顺序可能有出入，见谅，全凭记忆。

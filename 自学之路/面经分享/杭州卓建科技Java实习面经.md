@@ -4,6 +4,9 @@
 >
 > 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
 
+口述详细面经分享请关注dy号，感谢支持！
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
+
 1）
 
 面试官：我看你项目用到了 AI，是自己做过大模型这块吗？

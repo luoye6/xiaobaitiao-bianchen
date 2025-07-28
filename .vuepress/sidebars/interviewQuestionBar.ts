@@ -124,4 +124,19 @@ export default [
       "多线程热门面试题/线程创建的几种方法.md",
     ],
   },
+  {
+    title: "JVM热门面试题",
+    collapsable: true,
+    children: [
+      "JVM热门面试题/Java如何标记垃圾.md",
+      "JVM热门面试题/JVM内存布局.md",
+      "JVM热门面试题/JVM四种引用类型.md",
+      "JVM热门面试题/JVM如何判断一个对象是否回收？.md",
+      "JVM热门面试题/哪些对象可以作为GC Root 类加载器可以作为GC Root吗？.md",
+      "JVM热门面试题/哪些情况下会出现FULLGC.md",
+      "JVM热门面试题/堆中年轻代和老年代的垃圾回放算法？.md",
+      "JVM热门面试题/如何排查FULLGC.md",
+      "JVM热门面试题/有哪些垃圾回收器，哪个适用于吞吐量大的场景？.md",
+    ],
+  },
 ];

@@ -4,6 +4,9 @@
 >
 > 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
 
+口述详细面经分享请关注dy号，感谢支持！
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
+
 刚面完，写一份面经~，总体来说，可能说既是八股又不是常规八股，因为面试官会追问，不是一些表面的东西去说，面试体验良好.jpg。
 
 1）自我介绍
