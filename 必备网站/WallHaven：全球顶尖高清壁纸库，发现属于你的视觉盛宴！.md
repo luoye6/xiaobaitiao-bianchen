@@ -1,5 +1,12 @@
 # **WallHaven：全球顶尖高清壁纸库，发现属于你的视觉盛宴！**
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
+
+
 在数字时代，一张精美的壁纸不仅能点亮屏幕，更能展现个人品味。**WallHaven** 作为全球最受欢迎的高清壁纸平台之一，汇集了数百万张4K/8K超清壁纸，涵盖自然、动漫、艺术、科技等各类风格，是设计师、数码爱好者和美学追求者的宝藏网站。
 
 ------

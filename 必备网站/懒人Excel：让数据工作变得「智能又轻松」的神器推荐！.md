@@ -1,5 +1,13 @@
 # **懒人Excel：让数据工作变得「智能又轻松」的神器推荐！**
 
+
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
+
+
 你是否经常被Excel折磨到崩溃？
 ✅ **公式记不住**
 ✅ **重复操作繁琐**

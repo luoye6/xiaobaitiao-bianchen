@@ -1,5 +1,11 @@
 # **SeedHub：一站式种子搜索神器，轻松获取海量资源！**
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
+
 在当今互联网时代，寻找高质量的影视、软件、电子书等资源往往需要花费大量时间。**SeedHub** 作为一款强大的**种子搜索引擎**，聚合了全球多个知名种子站的资源，帮助用户快速找到并下载所需的BT种子文件，堪称资源获取的“万能钥匙”。
 
 ------

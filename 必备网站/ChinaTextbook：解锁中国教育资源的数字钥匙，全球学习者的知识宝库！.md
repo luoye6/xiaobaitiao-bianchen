@@ -1,5 +1,12 @@
 # **ChinaTextbook：解锁中国教育资源的数字钥匙，全球学习者的知识宝库！**
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
+
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
+
 在全球化教育浪潮中，中国的基础教育体系、语言文化课程和专业技能教材正受到越来越多国际学习者的关注。**ChinaTextbook** 作为中国首个**权威教育资源共享平台**，为全球用户提供**从小学到大学、从汉语到STEM**的全套中国教材与教学资源，让世界零距离接触中国教育精髓。
 
 ## **🌏 ChinaTextbook 是什么？**

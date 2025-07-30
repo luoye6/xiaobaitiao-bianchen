@@ -1,5 +1,11 @@
 # **AirPano：足不出户，360°环游世界的视觉盛宴！**
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
+
 你是否曾梦想过：
 🌄 **俯瞰维多利亚瀑布的磅礴**
 🏰 **鸟瞰巴黎圣母院的哥特尖顶**

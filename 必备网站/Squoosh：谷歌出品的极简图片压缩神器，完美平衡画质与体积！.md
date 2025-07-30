@@ -1,5 +1,12 @@
 # **Squoosh：谷歌出品的极简图片压缩神器，完美平衡画质与体积！**
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
+
+
 在当今视觉化内容爆发的时代，高清图片带来的存储和加载压力与日俱增。**Squoosh** 作为谷歌Chrome实验室推出的**开源图片压缩工具**，以其极简的操作界面、强大的压缩算法和实时对比功能，成为设计师、开发者和内容创作者的必备工具。
 
 ------

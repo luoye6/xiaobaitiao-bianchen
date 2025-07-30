@@ -1,5 +1,12 @@
 # **SimilarSites：一键发现同类网站，让你的网络探索效率翻倍！**
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
+
+
 在信息爆炸的互联网时代，我们常常需要寻找**同类优质网站**——无论是为了：
 
 - 研究竞品 📊
