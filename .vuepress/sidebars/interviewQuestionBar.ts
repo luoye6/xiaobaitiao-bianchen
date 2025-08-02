@@ -24,6 +24,16 @@ export default [
       "Java热门面试题/什么是双亲委派模型？.md",
       "Java热门面试题/实例化对象有哪几种方式？.md",
       "Java热门面试题/类什么时候会被加载？.md",
+      "Java热门面试题/ConcurrentHashMap(JDK1.8)为什么要使用synchronized而不是如ReentranLock这样的可重入锁？.md",
+      "Java热门面试题/Java8开始ConcurrentHashMap,为什么舍弃分段锁？.md",
+      "Java热门面试题/Tomcat为什么要打破双亲委派.md",
+      "Java热门面试题/Tomcat是如何打破双亲委派机制的呢？.md",
+      "Java热门面试题/yml和properties的区别.md",
+      "Java热门面试题/类加载器有哪些.md",
+      "Java热门面试题/说下ConcurrentHashMap原理.md",
+      "Java热门面试题/类加载的流程.md",
+      "Java热门面试题/说下Java8的Stream流的常用方法.md",
+
     ],
   },
   {
