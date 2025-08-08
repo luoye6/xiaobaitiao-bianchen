@@ -4,6 +4,8 @@
 >
 > 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
 
+口述详细面经分享请关注dy号，感谢支持！
+<img src="https://pic.yupi.icu/5563/202507082004834.png" width="300" height="300" />
 
 刚开始忘记录音了，后续补上了，总体来说各方面都有涉及，可能计网和操作系统这块没有涉及，然后就是没算法题。面试体验还可以，没啥压力~
 
