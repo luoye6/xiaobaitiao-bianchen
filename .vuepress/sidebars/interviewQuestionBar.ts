@@ -33,7 +33,10 @@ export default [
       "Java热门面试题/说下ConcurrentHashMap原理.md",
       "Java热门面试题/类加载的流程.md",
       "Java热门面试题/说下Java8的Stream流的常用方法.md",
-
+      "Java热门面试题/HashMap 的长度为什么是 2 的幂次方.md",
+      "Java热门面试题/LinkedList 为什么不能实现 RandomAccess 接口？.md",
+      "Java热门面试题/类加载机制(三种).md",
+      "Java热门面试题/类加载机制(什么时候类会被加载).md",
     ],
   },
   {
@@ -147,6 +150,13 @@ export default [
       "JVM热门面试题/堆中年轻代和老年代的垃圾回放算法？.md",
       "JVM热门面试题/如何排查FULLGC.md",
       "JVM热门面试题/有哪些垃圾回收器，哪个适用于吞吐量大的场景？.md",
+    ],
+  },
+  {
+    title: "八股文长篇小册子",
+    collapsable: true,
+    children: [
+      "八股文长篇小册子/深入剖析 ThreadLocal：原理、内存泄漏与最佳实践.md"
     ],
   },
 ];

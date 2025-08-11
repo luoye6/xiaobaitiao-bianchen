@@ -39,6 +39,9 @@ export default [
         link: '/高频面试题/',
         items: [
             {
+                text: "八股文长篇小册子", link: "/高频面试题/#八股文长篇小册子",
+            },
+            {
                 text: "Java热门面试题", link: "/高频面试题/#Java热门面试题",
             },
             {
