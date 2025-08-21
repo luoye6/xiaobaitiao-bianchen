@@ -79,6 +79,10 @@ export default [
 
     },
     {
+        text: "科技资讯",
+        link: '/科技资讯/'
+    },
+    {
         text: "必备网站",
         link: '/必备网站/'
     },

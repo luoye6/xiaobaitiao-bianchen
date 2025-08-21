@@ -5,6 +5,8 @@ import interviewQuestionBar from "./sidebars/interviewQuestionBar";
 import essentialWebsiteBar from "./sidebars/essentialWebsiteBar";
 import resumeModificationBar from "./sidebars/resumeModificationBar";
 import studyGuideBar from "./sidebars/studyGuideBar";
+import technologyNewsBar from "./sidebars/technologyNewsBar";
+
 // @ts-ignore
 export default {
     "/项目实战/": projectSideBar,
@@ -13,6 +15,7 @@ export default {
     "/高频面试题/": interviewQuestionBar,
     "/必备网站/": essentialWebsiteBar,
     "/简历修改/": resumeModificationBar,
+    "/科技资讯/": technologyNewsBar,
     "/关于我们/": ["", "个人经历"],
     // 降级，默认根据文章标题渲染侧边栏
     "/": "auto",
