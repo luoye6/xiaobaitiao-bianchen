@@ -157,7 +157,8 @@ export default [
     collapsable: true,
     children: [
       "八股文长篇小册子/深入剖析 ThreadLocal：原理、内存泄漏与最佳实践.md",
-      "八股文长篇小册子/CompletableFuture 深度解析：异步编排的艺术与实践.md"
+      "八股文长篇小册子/CompletableFuture 深度解析：异步编排的艺术与实践.md",
+      "八股文长篇小册子/数据库的 MVCC 是什么？如何实现？.md"
     ],
   },
 ];

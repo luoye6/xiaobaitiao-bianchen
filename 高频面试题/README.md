@@ -14,6 +14,8 @@
 
 [CompletableFuture深度解析：异步编排的艺术与实践](八股文长篇小册子/CompletableFuture%20深度解析：异步编排的艺术与实践.md)
 
+[数据库的MVCC是什么？如何实现？](八股文长篇小册子/数据库的%20MVCC%20是什么？如何实现？.md)
+
 ## ⭐️Java 热门面试题
 
 [JDK和JRE有什么区别？](Java热门面试题/JDK和JRE有什么区别？.md)
