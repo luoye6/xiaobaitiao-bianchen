@@ -1,5 +1,9 @@
 # 你做过哪些dirty work
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 > 大家好，我是程序员小白条，一名专业CV工程师（Ctrl+C/Ctrl+V的那种）。实习时每天的工作就是复制粘贴代码、写接口文档。
 
 论写 BUG ，我可是专业的！

@@ -1,5 +1,9 @@
 # AI面试来了，你还打算靠“演技”过关吗？
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 > 不是你不会面试，而是你还没学会和AI“对话”。
 
 还记得你上一次面试的情景吗？
