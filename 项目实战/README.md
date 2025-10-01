@@ -11,7 +11,7 @@
 **凭借项目是拿到腾讯实习的 offer 的！**
 ![](https://pic.yupi.icu/5563/202507061317399.png)
 
-## 全栈开发项目
+## 全栈开发项目（毕设 or 课设快速解决）
 
 ⭐智能 AI 旅游推荐平台（SpringBoot2+Vue3+TypeScript),全局异常拦截器，登录校验拦截器，Echarts展示景点排行榜(rankingList)。API认证采用JWT。后端CORS跨域支持。HTTP Status Code表示状态。数据返回格式JSON。接入讯飞星火 AI 接口，支持 B 站弹幕留言、二维码分享项目、牛客评论区、力扣刷题日历等等，复合多个实用功能项！
 项目内有卖票、事务管理、多线程安全等措施！

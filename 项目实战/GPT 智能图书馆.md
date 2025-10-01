@@ -16,8 +16,8 @@ Language：**[English](README_en.md)**| **[中文](README.md).**
 + 未经本人允许擅自将本项目作于商用、竞赛、贩卖源码、毕设擅自改动作者等违法行为，将依法追究法律责任，后果自负，项目已申请软件著作权。
 + 如果项目对您有所帮助，可以Star⭐一下，受到鼓励的我会继续加油。
 + [项目在线演示地址](https://www.xiaobaitiao.top)
-+ [项目前端地址](https://gitee.com/luoye6/Vue_BookManageSystem)
-+ [项目后端地址](https://gitee.com/luoye6/Vue_BookManageSystem_backend)
++ [项目前端地址](https://github.com/luoye6/Vue_BookManageSystem)
++ [项目后端地址](https://github.com/luoye6/Vue_BookManageSystem_backend)
 + [项目部署视频](https://www.bilibili.com/video/BV1Zh4y1z7QE/?spm_id_from=333.999.0.0)
 
 [![star](https://gitee.com/luoye6/Vue_BookManageSystem/badge/star.svg?theme=dark)](https://gitee.com/luoye6/Vue_BookManageSystem)  [![gitee](https://badgen.net/badge/gitee/falle22222n-leaves/red)](https://gitee.com/falle22222n-leaves)  [![github](https://badgen.net/badge/github/github?icon)](https://github.com/luoye6)

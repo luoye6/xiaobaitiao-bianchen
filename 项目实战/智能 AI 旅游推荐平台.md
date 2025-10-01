@@ -14,8 +14,8 @@
 + [项目演示视频](https://www.bilibili.com/video/BV1dv97YnETj/?spm_id_from=333.999.0.0&vd_source=e40a9464b71684502f289cff3f51514f)
 + 如果项目对您有所帮助，可以Star⭐一下，受到鼓励的我会继续加油。
 + [项目在线演示地址](https://xbt.xiaobaitiao.top/)
-+ [项目前端地址](https://gitee.com/luoye6/vue3_tourism_frontend)
-+ [项目后端地址](https://gitee.com/luoye6/vue3_tourism_backend)
++ [项目前端地址](https://github.com/luoye6/vue3_tourism_frontend)
++ [项目后端地址](https://github.com/luoye6/vue3_tourism_backend)
 
 [![star](https://gitee.com/luoye6/vue3_tourism_frontend/badge/star.svg?theme=dark)](https://gitee.com/luoye6/Vue_BookManageSystem)  [![gitee](https://badgen.net/badge/gitee/falle22222n-leaves/red)](https://gitee.com/falle22222n-leaves)  [![github](https://badgen.net/badge/github/github?icon)](https://github.com/luoye6)
 
