@@ -1,5 +1,9 @@
 # 我宣布 PHP 开发天下第一！PHP 开发找我投简历！
 
+> 本文作者：[程序员小白条](https://github.com/luoye6)
+>
+> 本站地址：[https://xbt.xiaobaitiao.top](https://xbt.xiaobaitiao.top)
+
 ![](https://pic.yupi.icu/5563/202508062013162.png)
 
 这年头 PHP 这赛道已经没人去了，还记得以前百度说是会 Go 和 PHP 就能投递简历，可惜我是罪恶的 Java 程序员！
